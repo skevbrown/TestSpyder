@@ -6,4 +6,4 @@ import matplotlib.pyplot as plt
 
 print("Testing spyder")
 
-
+print("Testing spyder with Git, etc")
